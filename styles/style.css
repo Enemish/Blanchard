@@ -857,7 +857,7 @@ input::-webkit-search-results-decoration {
 .gallery__slider {
   position: relative;
   display: flex;
-  width: 1152px;
+  width: 1145px;
   padding-top: 105px;
   transition: width ease .5s;
 }
