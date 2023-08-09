@@ -583,7 +583,7 @@ input::-webkit-search-results-decoration {
   background-image: url(../images/hero_1920.jpg);
   background-position: bottom;
   background-repeat: no-repeat;
-  animation: hero_slide 24s ease-in-out infinite alternate 4s;
+  animation: hero_slide 24s ease-in-out infinite alternate;
   transition: background ease .3s;
 }
 @keyframes hero_slide {
